@@ -1,13 +1,14 @@
-# BeVera Solutions
-# Welcome
-Before we begin, could everyone take about 5 minutes to complete the survey linked below.
-### [Pre-Survey](https://docs.google.com/forms/d/e/1FAIpQLSdNu2IjTi55yKu5bZwipbgnHy_9EChsyNNt9A-ukV58-8MgAQ/viewform?usp=sf_link)
-
-This is a preview to R Shiny
-
-
-We will first create a distribution curve just to see how to create your own Shiny App in R! Then I will need you all to open, in a new tab, the link to [a Shiny/R application to view and annotate copy number variations](https://github.com/gzhmat/ShinyCNV). This application was not created by me but by:
-#### Zhaohui Gu, Charles G Mullighan; ShinyCNV: a Shiny/R application to view and annotate DNA copy number variations, Bioinformatics, bty546, https://doi.org/10.1093/bioinformatics/bty546
-
-Thank you for your participation! Please complete the below survey for performance evaluation.
-### [Post-Survey](https://docs.google.com/forms/d/e/1FAIpQLSccA7U54bPWA-wJK7rI-BcamRPJmWnLHTgGx60dh5xFBZmYww/viewform?usp=sf_link)
+Thank you for enrolling in Master the Tidyverse.  
+ 
+Please bring a laptop to class that has the following installed:  
+ 
+1. A recent version of R (~3.4.1), which is available for free at <cran.r-project.org>  
+2. A recent version of RStudio IDE (~1.0.153), available for free at <www.rstudio.com/download>  
+3. The R packages we will use, which you can install by connecting to the internet, opening R, and running:  
+ 
+    install.packages(c("babynames", "formatR", "gapminder", "hexbin", "mgcv", "maps", "mapproj","nycflights13", "tidyverse", "viridis")) 
+ 
+4. The class materials, which can be downloaded at  
+<https://github.com/rstudio/master-the-tidyverse/archive/master.zip>
+ 
+And don't forget your power cord! 
