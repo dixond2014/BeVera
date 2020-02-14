@@ -1,3 +1,7 @@
+Thank you in advanced for completeing the post-survey!
+
+[Link to Post Survey](https://forms.gle/k8dKWgoaPdnsiZkg9)
+
 Thank you for enrolling in Master the Tidyverse.  
  
 Please bring a laptop to class that has the following installed:  
